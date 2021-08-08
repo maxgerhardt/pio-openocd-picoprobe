@@ -1,0 +1,24 @@
+{
+  "name": "tool-openocd-raspberrypi",
+  "version": "2.1100.0",
+  "description": "Open On-Chip Debugger for Raspberry Pi MCUs",
+  "keywords": [
+    "tools",
+    "debugger",
+    "debug server",
+    "uploader",
+    "rp2040",
+    "Raspberry Pi"
+  ],
+  "homepage": "http://openocd.org",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raspberrypi/openocd"
+  },
+  "system": [
+    "windows",
+    "windows_amd64",
+    "windows_x86"
+  ]
+}
